@@ -1,0 +1,7 @@
+D:\Work Place\Centennial\Sem4\Programming 3\Assignment\Assingment 2\TarangGodhariM17_Lab2_Ex1\QA_Component\QA_Component\bin\Debug\QA_Component.dll
+D:\Work Place\Centennial\Sem4\Programming 3\Assignment\Assingment 2\TarangGodhariM17_Lab2_Ex1\QA_Component\QA_Component\bin\Debug\QA_Component.pdb
+D:\Work Place\Centennial\Sem4\Programming 3\Assignment\Assingment 2\TarangGodhariM17_Lab2_Ex1\QA_Component\QA_Component\obj\Debug\QA_Component.csprojResolveAssemblyReference.cache
+D:\Work Place\Centennial\Sem4\Programming 3\Assignment\Assingment 2\TarangGodhariM17_Lab2_Ex1\QA_Component\QA_Component\obj\Debug\QA_Component.QA_Control.resources
+D:\Work Place\Centennial\Sem4\Programming 3\Assignment\Assingment 2\TarangGodhariM17_Lab2_Ex1\QA_Component\QA_Component\obj\Debug\QA_Component.csproj.GenerateResource.Cache
+D:\Work Place\Centennial\Sem4\Programming 3\Assignment\Assingment 2\TarangGodhariM17_Lab2_Ex1\QA_Component\QA_Component\obj\Debug\QA_Component.dll
+D:\Work Place\Centennial\Sem4\Programming 3\Assignment\Assingment 2\TarangGodhariM17_Lab2_Ex1\QA_Component\QA_Component\obj\Debug\QA_Component.pdb
